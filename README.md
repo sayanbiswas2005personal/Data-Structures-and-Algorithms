@@ -8,3 +8,5 @@
     4. [Triangle Pattern 2](Basic/Patterns/p4_traingle_2.cpp) 🟩
     5. [Upside_down_traingle_pattern 1](Basic/Patterns/p5_upside_down_traingle.cpp) 🟩
     6. [Upside_down_traingle_pattern 2](Basic/Patterns/p6_upside_down_traingle_1.cpp) 🟩
+    7. [Pyramid Pattern](Basic/Patterns/p7_pyramid.cpp) 🟨
+    8. [Reverse Pyramid Pattern](Basic/Patterns/p8_reverse_pyramid.cpp) 🟨
