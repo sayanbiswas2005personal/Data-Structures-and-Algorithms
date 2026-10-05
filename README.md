@@ -12,3 +12,4 @@
     8. [Reverse Pyramid Pattern](Basic/Patterns/p8_reverse_pyramid.cpp) 🟨
     9. [Diamond pattern](Basic/Patterns/p9_diamond_pattern.cpp) 🟩
     10. [Half-Diamond-Pattern](Basic/Patterns/p10_half_diamond.cpp) 🟩
+    11. [Traingle pattern 1_01_101](Basic/Patterns/p11_traingle_1_01_101.cpp) 🟨
