@@ -13,3 +13,5 @@
     9. [Diamond pattern](Basic/Patterns/p9_diamond_pattern.cpp) 🟩
     10. [Half-Diamond-Pattern](Basic/Patterns/p10_half_diamond.cpp) 🟩
     11. [Traingle pattern 1_01_101](Basic/Patterns/p11_traingle_1_01_101.cpp) 🟨
+    12. [Traingle mirror pattern](Basic/Patterns/p12_traingle_mirror_1_12_21_1.cpp) 🟩
+    13. [Traingle pattern 1_23_456](Basic/Patterns/p13_traingle_pattern_1_23_456.cpp) 🟩
