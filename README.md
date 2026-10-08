@@ -17,3 +17,5 @@
     13. [Traingle pattern 1_23_456](Basic/Patterns/p13_traingle_pattern_1_23_456.cpp) 🟩
     14. [Triangle_pattern_A_AB](Basic/Patterns/p14_triangle_pattern_A_AB.cpp) 🟩
     15. [Traingle_pattern_abcd_abc_ab_a](Basic/Patterns/p15_traingle_pattern_abcd_abc_ab_a.cpp) 🟩
+    16. [traingle_pattern_A_BB_CCC](Basic/Patterns/p16_traingle_pattern_A_BB_CCC.cpp) 🟩
+    17. [Pyramid_pattern_A_BAB_CBABA](Basic/Patterns/p17_pyramid_pattern_A_BAB_CBABA.cpp) 🟥 
