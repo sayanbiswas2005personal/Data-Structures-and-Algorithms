@@ -21,3 +21,5 @@
     17. [Pyramid_pattern_A_BAB_CBABA](Basic/Patterns/p17_pyramid_pattern_A_BAB_CBABA.cpp) 🟥 
     18. [Traingle_pattern_d_dc_dcb_dcba](Basic/Patterns/p18_traingle_pattern_d_dc_dcb_dcba.cpp) 🟨
     19. [Rectangle_diamond_pattern](Basic/Patterns/p19_rectangle_diamond_pattern.cpp) 🟩
+    20. [Mirror_image](Basic/Patterns/p20_mirror_image.cpp) 🟩
+    21. [Rectangle_pattern_boder](Basic/Patterns/p21_rectangle_pattern_boder.cpp) 🟩
