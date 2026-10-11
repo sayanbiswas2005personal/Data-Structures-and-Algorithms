@@ -23,3 +23,6 @@
     19. [Rectangle_diamond_pattern](Basic/Patterns/p19_rectangle_diamond_pattern.cpp) 🟩
     20. [Mirror_image](Basic/Patterns/p20_mirror_image.cpp) 🟩
     21. [Rectangle_pattern_boder](Basic/Patterns/p21_rectangle_pattern_boder.cpp) 🟩
+    22. [Advance square pattern](Basic/Patterns/p22_sqare_pattern_adv.cpp) 🟥 
+ - **Basic Maths**
+    1. [Count all digits of a number](Basic/Basic Maths/count_all_digits_of_a_number.cpp) 🟩
