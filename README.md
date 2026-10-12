@@ -26,3 +26,5 @@
     22. [Advance square pattern](Basic/Patterns/p22_sqare_pattern_adv.cpp) 🟥 
  - **Basic Maths**
     1. [Count all digits of a number](Basic/Basic Maths/count_all_digits_of_a_number.cpp) 🟩
+    2. [Number of odd digits](Basic/Basic Maths/count_num_of_odd_dig_of_a_number.cpp) 🟩
+    3. [Reverse a number](Basic/Basic Maths/p3_reverse_a_number.cpp) 🟩
