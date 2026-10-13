@@ -24,7 +24,10 @@
     20. [Mirror_image](Basic/Patterns/p20_mirror_image.cpp) 🟩
     21. [Rectangle_pattern_boder](Basic/Patterns/p21_rectangle_pattern_boder.cpp) 🟩
     22. [Advance square pattern](Basic/Patterns/p22_sqare_pattern_adv.cpp) 🟥 
- - **Basic Maths**
-    1. [Count all digits of a number](Basic/Basic Maths/count_all_digits_of_a_number.cpp) 🟩
-    2. [Number of odd digits](Basic/Basic Maths/count_num_of_odd_dig_of_a_number.cpp) 🟩
-    3. [Reverse a number](Basic/Basic Maths/p3_reverse_a_number.cpp) 🟩
+  - **Basic Maths**
+    1. [Count all digits of a number](Basic/Basic_Maths/count_all_digits_of_a_number.cpp) 🟩
+    2. [Number of odd digits](Basic/Basic_Maths/count_num_of_odd_dig_of_a_number.cpp) 🟩
+    3. [Reverse a number](Basic/Basic_Maths/p3_reverse_a_number.cpp) 🟩
+    4. [Palindrome_check](Basic/Basic_Maths/p4_palindrome_check.cpp)
+    5. [Largest_digit_in_a_number](Basic/Basic_Maths/p5_largest_digit_in_a_number.cpp)
+    
