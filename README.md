@@ -28,6 +28,8 @@
     1. [Count all digits of a number](Basic/Basic_Maths/count_all_digits_of_a_number.cpp) 🟩
     2. [Number of odd digits](Basic/Basic_Maths/count_num_of_odd_dig_of_a_number.cpp) 🟩
     3. [Reverse a number](Basic/Basic_Maths/p3_reverse_a_number.cpp) 🟩
-    4. [Palindrome_check](Basic/Basic_Maths/p4_palindrome_check.cpp)
-    5. [Largest_digit_in_a_number](Basic/Basic_Maths/p5_largest_digit_in_a_number.cpp)
+    4. [Palindrome_check](Basic/Basic_Maths/p4_palindrome_check.cpp) 🟩 
+    5. [Largest_digit_in_a_number](Basic/Basic_Maths/p5_largest_digit_in_a_number.cpp) 🟩
+    6. [Factorial of a number](Basic/Basic_Maths/p6_factorial_of_a_number.cpp) 🟩
+    7. [Armstrong Number](Basic/Basic_Maths/p7_armstrong_num.cpp) 🟩
     
