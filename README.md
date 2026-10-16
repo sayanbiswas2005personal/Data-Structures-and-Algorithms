@@ -32,4 +32,5 @@
     5. [Largest_digit_in_a_number](Basic/Basic_Maths/p5_largest_digit_in_a_number.cpp) 🟩
     6. [Factorial of a number](Basic/Basic_Maths/p6_factorial_of_a_number.cpp) 🟩
     7. [Armstrong Number](Basic/Basic_Maths/p7_armstrong_num.cpp) 🟩
-    8. []()
+    8. [Check prime](Basic/Basic_Maths/p9_check_prime.cpp) 🟩
+    9. [Check prime till n](Basic/Basic_Maths/p10_check_prime_till_n.cpp) 🟩
