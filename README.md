@@ -35,3 +35,4 @@
     8. [Check prime](Basic/Basic_Maths/p9_check_prime.cpp) 🟩
     9. [Check prime till n](Basic/Basic_Maths/p10_check_prime_till_n.cpp) 🟨
     10. [Gcd of a number](Basic/Basic_Maths/p11_gcd_of_a_number.cpp) 🟩
+    11. [lcm of two number](Basic/Basic_Maths/p12_lcm_of_two_numbers.cpp) 🟨
