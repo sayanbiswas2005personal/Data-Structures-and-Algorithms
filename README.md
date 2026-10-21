@@ -38,4 +38,5 @@
     11. [lcm of two number](Basic/Basic_Maths/p12_lcm_of_two_numbers.cpp) 🟨
     12. [All divisors of a number](Basic/Basic_Maths/p13_all_divisors_of_a_number.cpp) 🟩
   - **Basic Array**
-    1. [Sum of all element in array](Basic/Basic_Array/p1_sum_of_all_elements_inside_the_array.cpp)
+    1. [Sum of all element in array](Basic/Basic_Array/p1_sum_of_all_elements_inside_the_array.cpp) 🟩
+    2. [count odd and even elements](Basic/Basic_Array/p2_count_odd_and_even_elements_in_an_array.cpp) 🟩
