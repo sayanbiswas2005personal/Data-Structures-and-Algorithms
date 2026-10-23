@@ -41,3 +41,7 @@
     1. [Sum of all element in array](Basic/Basic_Array/p1_sum_of_all_elements_inside_the_array.cpp) 🟩
     2. [count odd and even elements](Basic/Basic_Array/p2_count_odd_and_even_elements_in_an_array.cpp) 🟩
     3. [Check the array is sorted or not](Basic/Basic_Array/p3_check_array_is_sorted.cpp) 🟩
+    4. [Reverse Array](Basic/Basic_Array/p4_reverse_array.java) 🟩
+  - **Basic Recursion**
+    1. [Max frequency element](Basic/Basic_Recursion/p1_max_frequency_element.java) 🟨 
+    2. [Second max frequency element](Basic/Basic_Recursion/p2_second_max_freq_element.java) 🟥 
