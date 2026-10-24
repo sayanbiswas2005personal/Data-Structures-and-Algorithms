@@ -1,4 +1,4 @@
-package Basic.Basic_Recursion;
+package Basic.Basic_Hashing;
 import java.util.HashMap;
 import java.util.Map;
 public class p2_second_max_freq_element {

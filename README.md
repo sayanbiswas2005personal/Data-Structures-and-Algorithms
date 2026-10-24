@@ -43,5 +43,6 @@
     3. [Check the array is sorted or not](Basic/Basic_Array/p3_check_array_is_sorted.cpp) 🟩
     4. [Reverse Array](Basic/Basic_Array/p4_reverse_array.java) 🟩
   - **Basic Recursion**
-    1. [Max frequency element](Basic/Basic_Recursion/p1_max_frequency_element.java) 🟨 
-    2. [Second max frequency element](Basic/Basic_Recursion/p2_second_max_freq_element.java) 🟥 
+    1. [Max frequency element](Basic/Basic_Hashing/p1_max_frequency_element.java) 🟨 
+    2. [Second max frequency element](Basic/Basic_Hashing/p2_second_max_freq_element.java) 🟥 
+    3. [Sum of the highest and lowest freq (concept of lambda and no static object creation)](Basic/Basic_Hashing/p3_sum_of_the_highest_and_lowest_freq.java) 🟥 
