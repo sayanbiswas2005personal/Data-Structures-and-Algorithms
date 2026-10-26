@@ -48,3 +48,4 @@
     3. [Sum of the highest and lowest freq (concept of lambda and no static object creation)](Basic/Basic_Hashing/p3_sum_of_the_highest_and_lowest_freq.java) 🟥 
   - **Basic String**
     1. [Reverse String](Basic/Basic_String/p1_reverse_string.java) 🟩
+    2. [Palindrome Check for String](Basic/Basic_String/p2_String_palindrome_check.java) 🟨 
