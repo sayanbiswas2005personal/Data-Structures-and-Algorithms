@@ -49,3 +49,4 @@
   - **Basic String**
     1. [Reverse String](Basic/Basic_String/p1_reverse_string.java) 🟩
     2. [Palindrome Check for String](Basic/Basic_String/p2_String_palindrome_check.java) 🟨 
+    3. [Largest odd number in the string](Basic/Basic_String/p3_largest_odd_num_in_the_string.java) 🟨 
