@@ -51,3 +51,4 @@
     2. [Palindrome Check for String](Basic/Basic_String/p2_String_palindrome_check.java) 🟨 
     3. [Largest odd number in the string](Basic/Basic_String/p3_largest_odd_num_in_the_string.java) 🟨 
     4. [Longest common prefix](Basic/Basic_String/p4_longest_common_prefix.java) 🟨 
+    5. [Isomorphic string](Basic/Basic_String/p5_isomorphic_string.py) 🟨 
