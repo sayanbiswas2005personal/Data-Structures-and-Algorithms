@@ -54,3 +54,4 @@
     5. [Isomorphic string](Basic/Basic_String/p5_isomorphic_string.py) 🟨 
     6. [Rotate string](Basic/Basic_String/p6_rotate_string.py) 🟩
     7. [Valid anagram](Basic/Basic_String/p7_valid_anagram.py) 🟨
+    8. [Sort character by frequency](Basic/Basic_String/p8_sort_char_by_freq.py) 🟩
