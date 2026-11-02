@@ -55,3 +55,7 @@
     6. [Rotate string](Basic/Basic_String/p6_rotate_string.py) 🟩
     7. [Valid anagram](Basic/Basic_String/p7_valid_anagram.py) 🟨
     8. [Sort character by frequency](Basic/Basic_String/p8_sort_char_by_freq.py) 🟩
+  - **Basic Recursion**
+    1. [sum of first n numbers](Basic/Basic_recursion/p1_sum_of_first_n_numbers.py) 🟩
+    2. [Factorial of a given number](Basic/Basic_recursion/p2_factorial_of_a_given_num.py) 🟩
+    3. [Sum of array elements](Basic/Basic_recursion/p3_sum_of_array_elements.py) 🟩
