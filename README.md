@@ -60,3 +60,4 @@
     2. [Factorial of a given number](Basic/Basic_recursion/p2_factorial_of_a_given_num.py) 🟩
     3. [Sum of array elements](Basic/Basic_recursion/p3_sum_of_array_elements.py) 🟩
     4. [Reverse a String](Basic/Basic_recursion/p4_reverse_a_string.py) 🟩
+    5. [Check if the number is palindrome or not](Basic/Basic_recursion/p5_check_if_the_number_is_palindrome_or_not.py) 🟩
