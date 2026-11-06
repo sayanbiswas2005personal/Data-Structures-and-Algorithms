@@ -62,3 +62,4 @@
     4. [Reverse a String](Basic/Basic_recursion/p4_reverse_a_string.py) 🟩
     5. [Check if the number is palindrome or not](Basic/Basic_recursion/p5_check_if_the_number_is_palindrome_or_not.py) 🟩
     6. [Prime check](Basic/Basic_recursion/p6_prime_check.py) 🟩
+    7. [Reverse the array](Basic/Basic_recursion/p7_reverse_the_array.py) 🟩
