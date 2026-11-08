@@ -63,3 +63,5 @@
     5. [Check if the number is palindrome or not](Basic/Basic_recursion/p5_check_if_the_number_is_palindrome_or_not.py) 🟩
     6. [Prime check](Basic/Basic_recursion/p6_prime_check.py) 🟩
     7. [Reverse the array](Basic/Basic_recursion/p7_reverse_the_array.py) 🟩
+    8. [Sum of digits](Basic/Basic_recursion/p8_sum_of_digits.py) 🟩
+    9. [Finbonacci num](Basic/Basic_recursion/p9_fibonacci_num.py) 🟩
