@@ -65,3 +65,5 @@
     7. [Reverse the array](Basic/Basic_recursion/p7_reverse_the_array.py) 🟩
     8. [Sum of digits](Basic/Basic_recursion/p8_sum_of_digits.py) 🟩
     9. [Finbonacci num](Basic/Basic_recursion/p9_fibonacci_num.py) 🟩
+- **Sorting**
+  1. [Selection Sort](Sorting/p1_selection_sort.py) 🟨
