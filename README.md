@@ -67,3 +67,4 @@
     9. [Finbonacci num](Basic/Basic_recursion/p9_fibonacci_num.py) 🟩
 - **Sorting**
   1. [Selection Sort](Sorting/p1_selection_sort.py) 🟨
+  2. [Bubble sort](Sorting/p2_bubble_Sort.py) 🟨
