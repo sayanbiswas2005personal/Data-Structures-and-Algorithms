@@ -69,3 +69,4 @@
   1. [Selection Sort](Sorting/p1_selection_sort.py) 🟨
   2. [Bubble sort](Sorting/p2_bubble_Sort.py) 🟨
   3. [Insertion Sort](Sorting/p3_insertion_sort.py) 🟨
+  4. [Selection Sort](Sorting/p4_merge_sort.cpp) 🟨
